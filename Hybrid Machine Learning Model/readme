@@ -1,1 +1,11 @@
+Hybrid machine learning models combine different types of algorithms to leverage their unique strengths, which results in improved predictive performance and robustness.
 
+When to Build a Hybrid Machine Learning Model?
+Build a hybrid machine learning model when a single algorithm cannot capture data complexity. Different data types or patterns may require this. For example, a hybrid approach can be used when handling sequential patterns and broader trends in the data.
+
+The given dataset consists of the historical stock data for Apple Inc. from the past year. It includes daily records with key features such as Date, Open, High, Low, Close, and Volume. For this problem, you need to focus on the Close price, which represents the stock’s final trading price at the end of each day. The dataset’s time-series nature makes it suitable for sequential modelling, while its numerical structure allows for regression analysis.
+
+Problem You Need to Solve
+The primary goal is to build a predictive model that can accurately forecast the next 10 days of Apple Inc.’s stock prices. Given the complexity of stock market data, which can exhibit both short-term sequential dependencies and broader trends, using a single model type may not suffice. The challenge lies in capturing these intricate patterns effectively. Therefore, a hybrid modelling approach combining LSTM (to capture time dependencies and short-term trends) and Linear Regression (to capture long-term trends) needs to be employed.
+
+Build a hybrid machine learning model when a single algorithm cannot capture the complexity of the data or when different types of data or patterns are present.

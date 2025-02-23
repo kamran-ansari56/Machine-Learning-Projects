@@ -1,0 +1,18 @@
+Music popularity prediction involves developing machine learning models to estimate the popularity of music tracks based on their audio features. Predicting the popularity of music can help music streaming platforms understand user preferences, optimize playlists, and enhance recommendation systems to improve user engagement and satisfaction.
+
+Dataset Information:
+Energy: A measure of intensity and activity.
+Valence: A measure of the musical positiveness conveyed by a track.
+Danceability: Describes how suitable a track is for dancing.
+Loudness: Overall loudness of a track in decibels (dB).
+Acousticness: Confidence measure of whether the track is acoustic.
+Tempo: The speed or pace of a given piece, measured in beats per minute (BPM).
+Speechiness: Measures the presence of spoken words in a track.
+Liveness: Detects the presence of an audience in the recording.
+Popularity: The target variable indicates the popularity score of the track.
+The dataset includes 227 music tracks, each described by the above features along with additional metadata like track name, artists, album name, and release date.
+
+Problem
+The objective is to develop a predictive model that can accurately estimate the popularity of music tracks based on their audio features. Accurate predictions of music popularity can assist music streaming platforms in better understanding user preferences, enhancing recommendation systems, and optimizing playlists to boost user engagement.
+
+Specifically, the goal is to build a regression model using machine learning techniques to predict the popularity score of a track by finding the most relevant features.

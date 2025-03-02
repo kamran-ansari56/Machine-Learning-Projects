@@ -1,1 +1,31 @@
+Retail price optimization involves determining the optimal selling price for products or services to maximize revenue and profit.
 
+What is Retail Price Optimization?
+Optimizing retail prices means finding the perfect balance between the price you charge for your products and the number of products you can sell at that price.
+
+The ultimate aim is to charge a price that helps you make the most money and attracts enough customers to buy your products. It involves using data and pricing strategies to find the right price that maximizes your sales and profits while keeping customers happy.
+
+Dataset Information:
+product_id: A unique identifier for each product in the dataset.
+product_category_name: The name of the product category to which the product belongs.
+month_year: The month and year of the retail transaction or data recording.
+qty: The quantity of the product sold or purchased in a given transaction.
+total_price: The total price of the product, including any applicable taxes or discounts.
+freight_price: The cost of shipping or freight associated with the product.
+unit_price: The price of a single unit of the product.
+product_name_length: The length of the product name in terms of the number of characters.
+product_description_length: The length of the product description in terms of the number of characters.
+product_photos_qty: The number of photos available for the product in the dataset.
+product_weight_g: The weight of the product in grams.
+product_score: A score or rating associated with the product’s quality, popularity, or other relevant factors.
+customers: The number of customers who purchased the product in a given transaction.
+weekday: The day of the week on which the transaction occurred.
+weekend: A binary flag indicating whether the transaction occurred on a weekend (1) or not (0).
+holiday: A binary flag indicating whether the transaction occurred on a holiday (1) or not (0).
+month: The month in which the transaction occurred.
+year: The year in which the transaction occurred.
+s: the effect of seasonality
+comp_1, comp_2, comp_3: Competitor information or variables related to competitors’ prices, promotions, or other relevant factors.
+ps1, ps2, ps3: Product score or rating associated with competitors’ products.
+fp1, fp2, fp3: Freight or shipping cost associated with competitors’ products.
+Your task is to leverage this data to develop a data-driven price optimization strategy that maximizes profits.

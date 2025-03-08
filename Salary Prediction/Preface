@@ -1,1 +1,9 @@
+Salary differs according to a person's job profile. However, generally, it's the working experience that determines the salary. Salary prediction is a popular problem in the data science community.
 
+Every company determines the salary of an employee according to the experience of the employee. Here’s a dataset based on the salary of people according to their experience:
+
+YearsExperience: The job experience of the person in years.
+Salary: Salary of the person.
+As this problem is based on predicting the salary of a person, the Salary column is the target variable. Perform regression analysis to find the relationship between job experience and the salary of people.
+
+References to Solve this Case Study

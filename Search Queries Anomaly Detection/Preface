@@ -1,1 +1,13 @@
+Search Queries Anomaly Detection means identifying queries that are outliers according to their performance metrics. It is valuable for businesses to spot potential issues or opportunities, such as unexpectedly high or low CTRs.
 
+Dataset Information:
+Search Queries Anomaly Detection refers to the process of identifying unusual patterns or outliers in search query data that deviate significantly from the norm.
+
+The dataset we have contains search queries that lead users to a specific website, along with associated metrics. The columns in this dataset are:
+
+Top Queries: The actual search terms used by users.
+Clicks: The number of times users clicked on the website after using the query.
+Impressions: The number of times the website appeared in search results for the query.
+CTR (Click Through Rate): The ratio of clicks to impressions, indicating the effectiveness of the query in leading users to the website.
+Position: The average ranking of the website in search results for the query.
+The problem at hand is to utilize the available dataset to detect anomalies in search queries — queries that perform significantly differently from the majority. The goal is to identify queries that are either underperforming or overperforming in terms of clicks, impressions, CTR, and search position.

@@ -1,1 +1,3 @@
+Text emotions classification is the problem of natural language processing and text classification. Here we need to train a text classification model to classify the emotion of a text.
 
+Text emotion classification is the problem of assigning emotion to a text by understanding the context and the emotion behind the text. One real-world example is the keyboard of an iPhone, which recommends the most relevant emoji by understanding the text.

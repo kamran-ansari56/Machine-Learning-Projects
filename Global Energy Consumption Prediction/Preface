@@ -1,1 +1,15 @@
+Introduction:
+# This project uses a dataset containing global energy consumption data. 
+# The dataset includes features such as energy usage, temperature, region, and time-series data.
+# The objective is to build a robust machine-learning model that can predict energy consumption patterns.
 
+# Objective:
+# The goal is to analyze the dataset, extract meaningful insights, and build a predictive model 
+# that can forecast energy consumption trends. This project aims to showcase data science skills 
+# while offering practical insights for businesses, policymakers, and energy providers.
+
+# Business Impact:
+# Accurately predicting energy consumption helps:
+# - Energy providers plan production efficiently.
+# - Businesses forecast operational costs.
+# - Policymakers implement sustainable energy strategies.

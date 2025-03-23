@@ -3,3 +3,22 @@ User profiling is the process of creating a detailed description of someone base
 The given dataset comprises a diverse set of user metrics collected from an online platform, consisting of 1,000 user profiles with 16 distinct features. These features include demographics (age, gender, income level, and education), online behavior (likes and reactions, followed accounts, device usage), engagement with content (time spent online during weekdays and weekends, click-through rates, conversion rates), interaction with ads (ad interaction time), and user interests.
 
 Your task is to develop a robust user profiling and segmentation system that leverages machine learning and data analysis techniques to categorize users into distinct segments. By analyzing user interaction data, demographic information, and engagement metrics, identify meaningful patterns and clusters within the user base. The ultimate goal is to enable businesses to tailor their advertising campaigns to the identified segments, thereby increasing ad relevance, user engagement, and conversion rates while optimizing ad spend.
+
+Here’s an overview of all the columns in the dataset:
+
+User ID: Unique identifier for each user.
+Age: Age range of the user.
+Gender: Gender of the user.
+Location: User’s location type (Urban, Suburban, Rural).
+Language: Primary language of the user.
+Education Level: Highest education level achieved.
+Likes and Reactions: Number of likes and reactions a user has made.
+Followed Accounts: Number of accounts a user follows.
+Device Usage: Primary device used for accessing the platform (Mobile, Desktop, Tablet).
+Time Spent Online (hrs/weekday): Average hours spent online on weekdays.
+Time Spent Online (hrs/weekend): Average hours spent online on weekends.
+Click-Through Rates (CTR): The percentage of ad impressions that lead to clicks.
+Conversion Rates: The percentage of clicks that lead to conversions/actions.
+Ad Interaction Time (sec): Average time spent interacting with ads in seconds.
+Income Level: User’s income level.
+Top Interests: Primary interests of the user.

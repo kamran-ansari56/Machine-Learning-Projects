@@ -1,1 +1,6 @@
 
+Next word prediction is a fascinating problem that involves developing a model capable of predicting the most probable word to follow a given sequence of words in a sentence. This predictive model harnesses the power of algorithms and language patterns to anticipate the next word, enabling various applications such as predictive keyboard suggestions, writing assistance, and content generation.
+
+For this task, you are given a textual dataset based on the renowned book series featuring the brilliant detective, Sherlock Holmes. This dataset comprises the captivating stories written by Sir Arthur Conan Doyle, immersing us in the world of thrilling investigations and eloquent prose. These stories serve as a rich source of textual data, allowing us to delve into the language patterns and contextual relationships found within the Sherlock Holmes universe.
+
+Your task is to develop a robust Next Word Prediction model that can accurately forecast the most appropriate word following a given sequence of words. By analyzing the dataset inspired by Sherlock Holmes, your model should learn the linguistic patterns and relationships that govern the progression of words.

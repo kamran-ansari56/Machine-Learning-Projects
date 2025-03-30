@@ -1,1 +1,26 @@
+Elections Ad Spending Analysis: Dataset Overview
+The Advertisers Dataset provides insights into which pages (parties or organizations) spend money on election ads and the volume of ads they run.
+The Locations Dataset shows how much money was spent on ads in different locations, indicating where the campaigns focused their efforts.
+The Results Dataset provides actual voting data, showing the number of voters in each area and the percentage of voter turnout.
 
+There are three files in the dataset. The advertiser's data contains:
+
+Page ID: A unique identifier for the advertiser’s page.
+Page name: The name of the advertiser’s page.
+Disclaimer: Information about the advertiser, typically, who paid for the ads.
+Amount spent (INR): The total amount spent on ads in Indian Rupees.
+Number of ads in Library: The number of ads associated with the advertiser.
+The location's data contains:
+
+Location name: The name of the location.
+Amount spent (INR): The total amount spent on ads in that location in Indian Rupees.
+The results data contains:
+
+_id: A unique identifier for the entry.
+Sl No: Serial number.
+State: The name of the state.
+PC_Name: The name of the parliamentary constituency.
+Total Electors: The total number of registered voters.
+Polled (%): The percentage of votes polled.
+Total Votes: The total number of votes cast.
+Phase: The phase of the election.

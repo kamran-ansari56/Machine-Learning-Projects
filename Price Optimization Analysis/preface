@@ -1,1 +1,21 @@
+Price optimization is a strategic approach that uses data collection on sales, costs, competition, and market trends to predict demand changes and analyze price elasticity, which enables businesses to set optimal prices. It involves competitive analysis to monitor market positioning, customer segmentation to identify varying willingness to pay, and mathematical optimization algorithms to determine the best price points.
 
+To get started with the task of Price Optimization, we need a dataset based on sales, costs, competition, and market trends. I found an ideal dataset for this task, which contains features like:
+
+Fiscal_Week_Id: The fiscal week identifier.
+Store_Id: The store identifier.
+Item_Id: The item identifier.
+Price: The price of the item at our store.
+Item_Quantity: The quantity of the item sold.
+Sales_Amount_No_Discount: Sales amount without discount.
+Sales_Amount: Sales amount after discounts.
+Competition_Price: The price of the item at a competing store.
+
+
+Problem
+The goal is to develop a dynamic pricing model that optimizes the prices of items to maximize revenue while remaining competitive in the market. This involves:
+
+Analyzing the current pricing strategy and its impact on sales and revenue.
+Comparing our pricing strategy with that of the competition to identify gaps and opportunities.
+Developing a dynamic pricing model that adjusts prices based on factors such as competitor pricing, demand elasticity, and market trends.
+Implementing and simulating the dynamic pricing model to compare its performance against the existing pricing strategy.

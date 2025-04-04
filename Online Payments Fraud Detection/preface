@@ -1,1 +1,14 @@
+The introduction of online payment systems has greatly helped ease payments. But, at the same time, it increased in payment frauds. Online payment fraud can happen with anyone using any payment system, especially while making payments using a credit card. That is why detecting online payment fraud is very important for credit card companies to ensure that the customers are not getting charged for products and services they never purchased.
 
+Below are all the columns from the dataset I’m using here:
+
+Step: represents a unit of time where 1 step equals 1 hour
+type: type of online transaction
+amount: the amount of the transaction
+nameOrig: customer starting the transaction
+oldbalanceOrg: balance before the transaction
+newbalanceOrig: balance after the transaction
+nameDest: recipient of the transaction
+oldbalanceDest: initial balance of the recipient before the transaction
+newbalanceDest: the new balance of the recipient after the transaction
+isFraud: fraud transaction

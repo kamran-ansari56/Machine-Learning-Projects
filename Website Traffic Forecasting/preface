@@ -1,1 +1,7 @@
+Forecasting traffic on a website during a time period helps a business prepare marketing strategies in advance to increase traffic on their website when the expected traffic is low.
 
+Here is a daily traffic data of a website we collected. Below are all the features in the data:
+
+Date: Date of the record
+Views: Total number of views in the day
+Forecast traffic on the website by analyzing the past year’s traffic data of the website.

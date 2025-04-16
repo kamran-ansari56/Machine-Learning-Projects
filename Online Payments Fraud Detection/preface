@@ -8,7 +8,7 @@ amount: the amount of the transaction
 nameOrig: customer starting the transaction
 oldbalanceOrg: balance before the transaction
 newbalanceOrig: balance after the transaction
-nameDest: recipient of the transaction
+nameDest: recipient of the transaction 
 oldbalanceDest: initial balance of the recipient before the transaction
 newbalanceDest: the new balance of the recipient after the transaction
 isFraud: fraud transaction

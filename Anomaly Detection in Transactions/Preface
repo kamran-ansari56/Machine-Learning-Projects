@@ -16,4 +16,4 @@ Age: Age of the account holder.
 Gender: Gender of the account holder.
 Income: Income of the account holder.
 Account_Type: Type of account (e.g., personal, business).
-Your task is to develop an effective anomaly detection model that can identify suspicious or fraudulent financial transactions based on the provided features. The solution should be capable of accurately flagging transactions that deviate significantly from the expected behavior while minimizing false positives that could inconvenience legitimate customers.
+Your task is to develop an effective anomaly detection model to identify suspicious or fraudulent financial transactions based on the provided features. The solution should be capable of accurately flagging transactions that deviate significantly from the expected behavior while minimizing false positives that could inconvenience legitimate customers.

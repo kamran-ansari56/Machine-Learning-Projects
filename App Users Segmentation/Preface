@@ -5,11 +5,11 @@ Here is a dataset we collected from an app to find a data-driven approach to seg
 Below are all the features in the dataset:
 
 userid: The identity number of the user;
-Average Screen Time: The average screen time of the user on the application;
-Average Spent on App (INR): The average amount spent by the user on the application;
+Average Screen Time: The average screen time of the user on the application.
+Average Spent on App (INR): The average amount spent by the user on the application.
 Left Review: Did the user leave any reviews about the experience on the application? (1 if true, otherwise 0)
 Ratings: Ratings given by the user to the application;
-New Password Request: The number of times the user requested a new password;
-Last Visited Minutes: Minuted passed by when the user was last active;
-Status: Installed if the application is installed and uninstalled if the user has deleted the application;
-Find relationships between the users who are still using the application and the users who have uninstalled the application and create user segments to understand the retained users and the users that can be retained before they move to other alternatives.
+New Password Request: The number of times the user requested a new password.
+Last Visited Minutes: Minutes passed since the user was last active.
+Status: Installed if the application is installed, and uninstalled if the user has deleted the application;
+Find relationships between the users who are still using the application and the users who have uninstalled the application, and create user segments to understand the retained users and the users that can be retained before they move to other alternatives.

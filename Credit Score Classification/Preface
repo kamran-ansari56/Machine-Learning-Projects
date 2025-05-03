@@ -9,14 +9,14 @@ Name: The name of the person
 Age: The age of the person
 SSN: Social Security Number of the person
 Occupation: The occupation of the person
-Annual_Income: The Annual Income of the person
+Annual Income: The Annual Income of the person
 Monthly_Inhand_Salary: Monthly in-hand salary of the person
 Num_Bank_Accounts: The number of bank accounts of the person
-Num_Credit_Card: Number of credit cards the person is having
-Interest_Rate: The interest rate on the credit card of the person
+Num_Credit_Card: Number of credit cards the person has
+Interest Rate: The interest rate on the credit card of the person
 Num_of_Loan: The number of loans taken by the person from the bank
 Type_of_Loan: The types of loans taken by the person from the bank
-Delay_from_due_date: The average number of days delayed by the person from the date of payment
+Delay from due date: The average number of days delayed by the person from the date of payment
 Num_of_Delayed_Payment: Number of payments delayed by the person
 Changed_Credit_Card: The percentage change in the credit card limit of the person
 Num_Credit_Inquiries: The number of credit card inquiries by the person

@@ -1,1 +1,14 @@
+Predicting the number of orders for a product is one of the strategies a business can follow in determining how much to invest in marketing their product. So, predicting the number of orders is an important data science use case for product-based companies.
 
+The dataset we will be using for the task of the number of orders prediction contains data about:
+
+Product ID
+Store ID
+The type of store where the supplement was sold
+The type of location the order was received from
+Sales Date
+Region code
+Whether it is a public holiday or not at the time of order
+Whether the product was on discount or not
+Number of orders placed
+Sales

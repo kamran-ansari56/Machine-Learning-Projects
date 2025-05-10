@@ -1,6 +1,6 @@
 Anomaly detection is a critical aspect of data analysis that involves identifying patterns or instances that deviate significantly from the expected behavior within a dataset. The challenge is to develop robust anomaly detection models that can accurately distinguish between normal and abnormal data points, thereby assisting in fraud detection, fault diagnosis, and outlier identification.
 
-You aim to build a robust model that can accurately distinguish legitimate transactions from potential anomalies, safeguarding the financial system from fraudulent activities and ensuring customer trust.
+You aim to build a robust model that accurately distinguishes legitimate transactions from potential anomalies, safeguarding the financial system from fraudulent activities and ensuring customer trust.
 
 The dataset contains information about various financial transactions, each represented by several features:
 

@@ -11,7 +11,7 @@ Average_Transaction_Amount: The historical average transaction amount for the ac
 Frequency_of_Transactions: How often transactions are typically performed by the account.
 Time_Since_Last_Transaction: Time elapsed since the last transaction.
 Day_of_Week: The day of the week when the transaction occurred.
-Time_of_Day: The time of day when the transaction occurred.
+Time_of_Day: The time of day when the transaction occurred. 
 Age: Age of the account holder.
 Gender: Gender of the account holder.
 Income: Income of the account holder.

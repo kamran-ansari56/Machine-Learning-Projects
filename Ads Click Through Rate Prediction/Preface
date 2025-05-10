@@ -14,4 +14,4 @@ Gender: the gender of the user;
 Country: the country of the user;
 Timestamp: the time when the user visited the website;
 Clicked on Ad: 1 if the user clicked on the ad, otherwise 0;
-The “Clicked on Ad” column is the target variable in the dataset. You are required to analyze this marketing campaign's click-through rate to find relationships between user characteristics and the click-through rate.
+The “Clicked on Ad” column is the target variable in the dataset. You must analyze this marketing campaign's click-through rate to find relationships between user characteristics and the click-through rate.

@@ -8,7 +8,7 @@ Age: Age of the patient
 Gender: Gender of the patient
 Protein1, Protein2, Protein3, Protein4: expression levels
 Tumor_Stage: Breast cancer stage of the patient
-Histology: Infiltrating Ductal Carcinoma, Infiltration Lobular Carcinoma, Mucinous Carcinoma
+Histology: Infiltrating Ductal Carcinoma, Infiltrating Lobular Carcinoma, Mucinous Carcinoma
 ER status: Positive/Negative
 PR status: Positive/Negative
 HER2 status: Positive/Negative

@@ -9,7 +9,7 @@ policy_id: Unique identifier for the insurance policy.
 subscription_length: The duration for which the insurance policy is active.
 customer_age: The age of the insurance policyholder, which can influence the likelihood of claims.
 vehicle_age: The age of the vehicle insured, which may affect the probability of claims due to factors like wear and tear.
-model: The model of the vehicle, which could impact the claim frequency due to model-specific characteristics.
+Model: The model of the vehicle, which could impact the claim frequency due to model-specific characteristics.
 fuel_type: The type of fuel the vehicle uses (e.g., Petrol, Diesel, CNG), which might influence the risk profile and claim likelihood.
 max_torque, max_power: Engine performance characteristics that could relate to the vehicle’s mechanical condition and claim risks.
 engine_type: The type of engine, which might have implications for maintenance and claim rates.

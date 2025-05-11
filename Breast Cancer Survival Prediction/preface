@@ -14,6 +14,6 @@ PR status: Positive/Negative
 HER2 status: Positive/Negative
 Surgery_type: Lumpectomy, Simple Mastectomy, Modified Radical Mastectomy, Other
 Date of Surgery: The date of Surgery
-DateofLast_Visit: The date of the last visit of the patient
+Date of Last Visit: The date of the last visit of the patient
 Patient_Status: Alive/Dead
 So by using this dataset, our task is to predict whether a breast cancer patient will survive or not after the surgery.

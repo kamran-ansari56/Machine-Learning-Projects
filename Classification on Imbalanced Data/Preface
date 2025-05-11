@@ -16,7 +16,7 @@ engine_type: The type of engine, which might have implications for maintenance a
 displacement, cylinder: Specifications related to the engine size and construction, affecting the vehicle’s performance and potentially its claim history.
 region_code: The code representing the geographical region of the policyholder, as claim patterns can vary regionally.
 region_density: Population density of the policyholder’s region, which could correlate with accident and claim frequencies.
-airbags: The number of airbags in the vehicle, indicating the safety level which can influence claim probability.
+airbags: The number of airbags in the vehicle, indicating the safety level, which can influence claim probability.
 is_esc (Electronic Stability Control), is_adjustable_steering, is_tpms (Tire Pressure Monitoring System): Features that enhance vehicle safety and could potentially reduce the likelihood of claims.
 is_parking_sensors, is_parking_camera: Parking aids that might affect the probability of making a claim, especially in urban areas.
 rear_brakes_type: The type of rear brakes, which could be related to the vehicle’s stopping capability and safety.

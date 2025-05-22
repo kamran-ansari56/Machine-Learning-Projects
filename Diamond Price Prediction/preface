@@ -1,1 +1,3 @@
 Gemstones like diamonds are always in demand because of their value in the investment market. This makes it very important for diamond dealers to predict its price.
+
+For the task of predicting the price of diamond with machine learning, we need to create a machine learning model that will predict the price of a diamond using some features like weight, quality, measurements, etc.

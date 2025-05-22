@@ -1,5 +1,5 @@
 Gemstones like diamonds are always in demand because of their value in the investment market. This makes it very important for diamond dealers to predict its price.
 
-For the task of predicting the price of diamond with machine learning, we need to create a machine learning model that will predict the price of a diamond using some features like weight, quality, measurements, etc.
+For the task of predicting the price of diamond with machine learning, we need to create a machine learning model that will predict the price of a diamond using some features like weight, quality, measurements, etc. 
 
 The dataset, which I’ll be using for the diamond price prediction task with machine learning, contains data for almost 54,000 diamonds. This is a very good data set for beginners as it contains almost all the important characteristics of diamonds such as price, cut quality, carat, weight, colour, clarity, length, width, depth, etc.

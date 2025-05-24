@@ -3,7 +3,7 @@ Every consumer care department receives thousands of complaints every day. The d
 Here is a dataset based on consumer complaints collected by the Consumer Financial Protection Bureau. Below are all the features in the dataset:
 
 Date received: The date on which the complaint was received
-Product: Type of product in which the consumer identified complaint
+Product: Type of product in which the consumer identified the complaint
 Sub-product: Type of sub-product in which the consumer identified a complaint
 Issue: The issue reported by the consumer
 Sub-issue: The sub-issue reported by the consumer

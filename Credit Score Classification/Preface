@@ -21,7 +21,7 @@ Num_of_Delayed_Payment: Number of payments delayed by the person
 Changed_Credit_Card: The percentage change in the credit card limit of the person
 Num_Credit_Inquiries: The number of credit card inquiries by the person
 Credit_Mix: Classification of Credit Mix of the customer
-Outstanding_Debt: The outstanding balance of the person
+Outstanding Debt: The outstanding balance of the person
 Credit_Utilization_Ratio: The credit utilization ratio of the credit card of the customer
 Credit_History_Age: The age of the credit history of the person
 Payment_of_Min_Amount: Yes if the person paid the minimum amount to be paid only, otherwise no.

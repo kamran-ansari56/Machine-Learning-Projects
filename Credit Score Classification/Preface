@@ -16,7 +16,7 @@ Num_Credit_Card: Number of credit cards the person has
 Interest Rate: The interest rate on the credit card of the person
 Num_of_Loan: The number of loans taken by the person from the bank
 Type_of_Loan: The types of loans taken by the person from the bank
-Delay from due date: The average number of days delayed by the person from the date of payment
+Delay from due date: The average number of days delayed by the person from the due date of payment
 Num_of_Delayed_Payment: Number of payments delayed by the person
 Changed_Credit_Card: The percentage change in the credit card limit of the person
 Num_Credit_Inquiries: The number of credit card inquiries by the person

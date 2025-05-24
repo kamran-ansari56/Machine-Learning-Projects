@@ -27,7 +27,7 @@ Credit_History_Age: The age of the credit history of the person
 Payment_of_Min_Amount: Yes if the person paid the minimum amount to be paid only, otherwise no.
 Total_EMI_per_month: The total EMI per month of the person
 Amount_invested_monthly: The monthly amount invested by the person
-Payment_Behaviour: The payment behaviour of the person
+Payment Behavior: The payment behaviour of the person
 Monthly_Balance: The monthly balance left in the account of the person
 Credit_Score: The credit score of the person
 The Credit_Score column is the target variable in this problem. You are required to find relationships based on how banks classify credit scores and train a model to classify the credit score of a person.

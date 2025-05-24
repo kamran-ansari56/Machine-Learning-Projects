@@ -4,7 +4,7 @@ Here is a dataset based on consumer complaints collected by the Consumer Financi
 
 Date received: The date on which the complaint was received
 Product: Type of product in which the consumer identified complaint
-Sub-product: Type of sub-product in which the consumer identified complaint
+Sub-product: Type of sub-product in which the consumer identified a complaint
 Issue: The issue reported by the consumer
 Sub-issue: The sub-issue reported by the consumer
 Consumer complaint narrative: Complete description of the complaint reported by the consumer

@@ -5,3 +5,7 @@ To be approachable
 Rapidly productive
 
 FastAI aims to provide high-level components to researchers who use low-level components that can be used to build new approaches. The best part about this library is that it does all of this without substantial components in ease of use, flexibility, and performance.
+
+FastAI is built on Pytorch, NumPy, PIL, pandas, and a few other libraries. To achieve its goals, it does not aim to hide the lower levels of its foundation. Using this machine learning library, we can directly interact with the underlying PyTorch primitive models.
+
+By using the FastAI library in Machine Learning, we can easily build and train advanced neural network models using transfer learning with very few lines of code.

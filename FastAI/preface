@@ -1,1 +1,7 @@
+Introduction to FastAI in Machine Learning
+The FastAI library is created for two main goals:
 
+To be approachable
+Rapidly productive
+
+FastAI aims to provide high-level components to researchers who use low-level components that can be used to build new approaches. The best part about this library is that it does all of this without substantial components in ease of use, flexibility, and performance.

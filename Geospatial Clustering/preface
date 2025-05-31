@@ -1,5 +1,5 @@
 What is Geospatial Clustering?
-At its core, geospatial clustering is just unsupervised learning applied to latitude and longitude data, but the goal is always the same: to find meaningful groupings or patterns in spatial data to make location-based decisions smarter.
+At its core, geospatial clustering is simply unsupervised learning applied to latitude and longitude data. Still, the goal remains the same: to identify meaningful groupings or patterns in spatial data, thereby making location-based decisions more informed.
 
 Let’s look at some applications of geospatial clustering:
 

@@ -1,1 +1,4 @@
+Stock Market Crash Analysis: An Overview
+In this task, we will use 30 years of historical Indian stock market data. We will focus on the Sensex to analyze and understand market crashes.
 
+We will start by cleaning and processing the financial data for analysis. Then, we will calculate daily returns, drawdowns, and rolling 10-day average returns and volatility. These metrics will help us identify and cluster periods of high market stress. We will highlight major crash events such as those in 1997, 2008–2009, and 2020. Using rolling metrics, we will build an early warning system to detect signs of an upcoming crash. This system will help data scientists and analysts manage risk and make informed investment decisions.

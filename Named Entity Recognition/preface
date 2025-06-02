@@ -1,4 +1,3 @@
-Named Entity Recognition
 Named entity recognition comes from information retrieval (IE). IE’s job is to transform unstructured data into structured information. In Named Entity Recognition, unstructured data is the text written in natural language and we want to extract important information in a well-defined format eg. relational database.
 
 For example, we want to monitor the news for mentions of Covid-19 patients and for each patient we need the name of the responsible medical organization, location and date.

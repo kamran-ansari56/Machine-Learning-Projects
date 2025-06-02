@@ -1,2 +1,10 @@
 Named Entity Recognition
 Named entity recognition comes from information retrieval (IE). IE’s job is to transform unstructured data into structured information. In Named Entity Recognition, unstructured data is the text written in natural language and we want to extract important information in a well-defined format eg. relational database.
+
+For example, we want to monitor the news for mentions of Covid-19 patients and for each patient we need the name of the responsible medical organization, location and date.
+
+The Named Entity Recognition task attempts to correctly detect and classify text expressions into a set of predefined classes. Classes can vary, but very often classes like people (PER), organizations (ORG) or places (LOC) are used.
+
+There is an increase in the use of named entity recognition in information retrieval. Modern systems like Apache Lucene allow us to extend the query with custom properties. Since named entities are very important in many systems, it is essential to allow the user to use them.
+
+This also applies to search engines like Google or Yahoo, which try to handle the query containing or asking for named entities differently, for example, they show a box with basic information about the named entities with a link to a database of knowledge. Also, the results of named entities are classified differently.

@@ -1,1 +1,5 @@
 Traffic control and the identification of vehicle owners have become a major problem in all countries. Sometimes it becomes difficult to identify a vehicle owner who is breaking the rules of the road and driving too fast.
+
+Therefore, it is not possible to catch and punish such kind of people because the traffic personnel might not be able to retrieve the vehicle number of the moving vehicle due to the speed of the vehicle. So to solve these types of problems we need to create a Number Plate Detection System. There are many Number Plate Recognition systems available today.
+
+These systems are based on different methodologies, but it is always a very difficult task as some of the factors like high vehicle speed, non-uniform vehicle number plate, vehicle number language and different lighting conditions can affect a lot of overall recognition rate. Most systems operate under these limitations.

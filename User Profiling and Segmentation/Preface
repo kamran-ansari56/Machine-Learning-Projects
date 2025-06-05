@@ -8,7 +8,7 @@ Here’s an overview of all the columns in the dataset:
 
 User ID: Unique identifier for each user.
 Age: Age range of the user.
-Gender: Gender of the user.
+Gender: Gender of the user. 
 Location: User’s location type (Urban, Suburban, Rural).
 Language: Primary language of the user.
 Education Level: Highest education level achieved.

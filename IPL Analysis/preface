@@ -1,3 +1,4 @@
 IPL is a major professional cricket league in India, contested by eight teams representing different cities in India. This IPL analysis task focuses on analyzing the performance of the eight competing IPL teams.
 
 Team performance is visualized graphically using the Plotly library in Python to render interpretation efficiently. Performance data using visual analysis help select players for future matches and provides additional information about the player as well as team profiles.
+ 

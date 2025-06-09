@@ -1,1 +1,1 @@
-
+To gain a full understanding of the image, we should not only focus on classifying the different images but also try to accurately estimate the concepts and locations of the objects contained in each image. This task is known as object detection. Detecting Objects usually consists of different subtasks such as face detection, pedestrian detection, Number plate detection and skeleton detection.

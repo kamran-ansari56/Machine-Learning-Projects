@@ -1,1 +1,5 @@
 To gain a full understanding of the image, we should not only focus on classifying the different images but also try to accurately estimate the concepts and locations of the objects contained in each image. This task is known as object detection. Detecting Objects usually consists of different subtasks such as face detection, pedestrian detection, Number plate detection and skeleton detection.
+
+As one of the fundamental problems of computer vision, object detection is able to provide valuable information for the semantic understanding of images and videos and is related to many applications, including the classification of images, analysis of human behaviour, facial recognition and autonomous driving.
+
+In the meantime, inheriting from neural networks and other machine learning systems, advancements in these areas will allow the development of neural networks and will also have great impacts on the techniques of detecting objects that can be considered as the future machine learning systems.

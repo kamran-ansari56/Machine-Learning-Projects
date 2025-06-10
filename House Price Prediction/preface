@@ -1,4 +1,4 @@
-Predicting house prices can help to determine the selling price of a house of a particular region and can help people to find the right time to buy a home.
+Predicting house prices can help to determine the selling price of a house of a particular region and can help people to find the right time to buy a home. 
 
 
 our task is to use data from the California census to create a machine learning model to predict house prices in the State. The data includes features such as population, median income, and median house prices for each block group in California.

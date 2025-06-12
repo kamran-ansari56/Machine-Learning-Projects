@@ -11,11 +11,11 @@ Product_Browsing_Time: Amount of time spent browsing products (in minutes).
 Total_Pages_Viewed: Total number of pages viewed during the browsing session.
 Items_Added_to_Cart: Number of items added to the shopping cart.
 Total_Purchases: Total number of purchases made.
-Your task involves:
 
+Your task involves:
 Understanding the distribution and characteristics of customer demographics (e.g., age, gender, location).
 Exploring how different types of devices are used by customers and their impact on behavior.
 Investigating the relationship between browsing time, pages viewed, items added to the cart, and actual purchases.
 Segmenting customers based on their behavior and identifying distinct customer groups.
 Analyzing the customer journey and identifying potential areas for improvement in the conversion funnel.
-Assessing the impact of customer behavior on revenue generation and identifying opportunities for increasing sales and customer engagement.
+Assessing the impact of customer behavior on revenue generation and identifying opportunities for increasing sales and customer engagement. 

@@ -9,3 +9,4 @@ Issue: The issue reported by the consumer
 Sub-issue: The sub-issue reported by the consumer
 Consumer complaint narrative: Complete description of the complaint reported by the consumer
 This problem aims to identify the category of the complaint filed by the consumer to identify the most important issues to be addressed first. The Product column contains the product name where the consumer found issues. So the Product column is the target variable in this classification problem.
+ 

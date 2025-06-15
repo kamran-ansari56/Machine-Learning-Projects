@@ -16,4 +16,4 @@ engineer features such as word embeddings,
 Select an appropriate model like an LSTM or GPT, 
 train the model on the dataset while adjusting hyperparameters,
 Improve the model by experimenting with different techniques and architectures.
-This iterative process allows businesses to develop accurate and efficient Next Word Prediction models that can be applied in various applications.
+This iterative process allows businesses to develop accurate and efficient Next Word Prediction models that can be applied in various applications. 

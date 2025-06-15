@@ -7,3 +7,4 @@ Salary: Salary of the person.
 As this problem is based on predicting the salary of a person, the Salary column is the target variable. Perform regression analysis to find the relationship between job experience and the salary of people.
 
 References to Solve this Case Study
+ 

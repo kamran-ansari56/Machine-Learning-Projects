@@ -1,4 +1,4 @@
-There are many ways to create recommendation systems. To create an articles recommendation system, we need to focus on content rather than user interest. For example, if a user reads an article based on clustering, all recommended articles should also be based on clustering. So to recommend articles based on the content:
+There are many ways to create recommendation systems. To create an article recommendation system, we need to focus on content rather than user interest. For example, if a user reads an article based on clustering, all recommended articles should also be based on clustering. So to recommend articles based on the content:
 
 we need to understand the content of the article
 match the content with all the other articles

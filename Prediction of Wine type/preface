@@ -1,1 +1,11 @@
 Deep learning is commonly used to analyze large datasets but to understand its core concepts it’s helpful to start with smaller, more manageable datasets. One such dataset is the Wine Quality dataset which includes information about the chemical properties of wines and their quality ratings.
+
+But before loading the data it is important to understand its features. The dataset consists of 12 variables. Here are a few of them:
+
+Fixed Acidity: This refers to the non-volatile acids in the wine, which contribute to the wine's tartness.
+Volatile Acidity: This refers to acetic acid content which can contribute to a vinegar-like taste in wine.
+Citric Acid: Citric acid is one of the fixed acids in wine.
+Residual Sugar: This is the sugar that remains after fermentation stops.
+Chlorides: Chlorides can contribute to saltiness in wine.
+Free Sulfur Dioxide: This is the sulfur dioxide that is added to wine.
+Total Sulfur Dioxide: This is the sum of bound and free sulfur dioxide.

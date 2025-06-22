@@ -11,6 +11,6 @@ Hippie wants to compare the total weight of each order calculated using the SKU 
 
 In addition, Hippie must apply the logic of calculating charges based on the slab weight, delivery area, and type of shipment listed on the courier company’s invoice. The courier fee rate card provides a fixed fee and an additional fee for each weight plate and PIN. The total charge per shipment should be calculated by adding the fixed charge and any additional charges based on plate weight.
 
-
+ 
 Summary
 B2B courier charges accuracy analysis focuses on assessing the accuracy of fees charged by courier companies for the delivery of goods in B2B transactions. In such problems, we aim to ensure that companies are billed appropriately for the services provided by courier companies.

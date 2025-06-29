@@ -5,7 +5,7 @@ In the insurance industry, predicting the likelihood of claims is critical for r
 
 The given dataset contains the following features:
 
-policy_id: Unique identifier for the insurance policy.
+policy_id: Unique identifier for the insurance policy. 
 subscription_length: The duration for which the insurance policy is active.
 customer_age: The age of the insurance policyholder, which can influence the likelihood of claims.
 vehicle_age: The age of the vehicle insured, which may affect the probability of claims due to factors like wear and tear.

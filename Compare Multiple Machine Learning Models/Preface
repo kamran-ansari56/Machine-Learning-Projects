@@ -7,3 +7,4 @@ Your key tasks include:
 Train a variety of machine learning models, including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting, to predict real estate prices.
 Evaluate each model’s performance using metrics such as Mean Absolute Error (MAE) and R-squared (R²) to assess prediction accuracy and the variance explained by the model.
 Identify the best-performing models based on the evaluation metrics.
+ 

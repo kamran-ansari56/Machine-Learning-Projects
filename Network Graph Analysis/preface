@@ -1,2 +1,6 @@
 Introduction to Network Graphs
 Network Graph Analysis has real broad applications in the field of networking. Two main areas are involved in the analysis of the application of network graphs, which are a graph-based representation and network theory.
+
+A graph has two components which are nodes and edges. In a graphical representation, these components have natural correspondences with the elements of the problem. In general, nodes in a graph represent features and edges represent interactions between features.
+
+Most complex systems are problems of a graphical type, such as the transportation network, the trade links of an industry within a country, the genetic interaction network, and the Internet. On the other hand, network theory works as a tool that provides a set of techniques to analyze a graph and apply network theory using a graphical representation.

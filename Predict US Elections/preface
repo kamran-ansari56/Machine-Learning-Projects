@@ -1,1 +1,1 @@
-
+How we can predict the US presidential elections with Python. Here, We will not train any machine learning model. We will analyze the sentiments of people for the candidates and then at the end, We will conclude based on the most number of positive and negative tweets against the candidates.

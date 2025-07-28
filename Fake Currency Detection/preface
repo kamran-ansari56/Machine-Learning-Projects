@@ -1,1 +1,6 @@
+The dataset contains these four input characteristics:
 
+The variance of the image transformed into wavelets
+The asymmetry of the image transformed into wavelets
+Kurtosis of the image transformed into wavelets
+Image entropy

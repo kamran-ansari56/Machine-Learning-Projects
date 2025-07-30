@@ -1,1 +1,1 @@
-
+The dataset we are going to use here to predict car prices is tabular data with the prices of different cars regarding the other variables, the dataset has 258 rows and 9 columns, the variable we want to predict is the selling price of the cars.

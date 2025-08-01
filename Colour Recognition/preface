@@ -1,3 +1,4 @@
 This process is also known as colour detection. We are going to create a basic application that will help us detect colours in an image. The program will also return the RGB values ​​of the colours, which is useful.
 
 Many graphic designers and web designers will understand how useful RGB values ​​can be. Building a colour recognition tool is a great project to get started with Computer Vision.
+ 

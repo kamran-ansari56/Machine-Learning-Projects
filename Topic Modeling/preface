@@ -1,1 +1,1 @@
-
+Topic modeling is a type of statistical modeling for discovering abstract “subjects” that appear in a collection of documents. This means creating one topic per document template and words per topic template, modeled as Dirichlet distributions.

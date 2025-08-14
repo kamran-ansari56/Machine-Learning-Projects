@@ -1,1 +1,10 @@
 Topic modeling is a type of statistical modeling for discovering abstract “subjects” that appear in a collection of documents. This means creating one topic per document template and words per topic template, modeled as Dirichlet distributions.
+
+What is Topic Modeling?
+In machine learning and natural language processing, topic modeling is a type of statistical model for discovering abstract subjects that appear in a collection of documents. Topic modeling is a text mining tool frequently used for discovering hidden semantic structures in body text. 
+
+Intuitively, since a document is about a particular topic, one would expect that particular words would appear more or less frequently in the document: “dog” and “bone” will appear more often in documents about dogs, “Cat” and “meow” will appear in chat documents, and “the” and “is” will appear roughly equally in both. 
+
+A document generally concerns several subjects in different proportions; thus, in a 10% cat and 90% dog document, there would probably be about 9 times more dog words than cat words. The “topics” produced by topic modeling techniques are groups of similar words. 
+
+A topic modeling machine learning model captures this intuition in a mathematical framework, which makes it possible to examine a set of documents and discover, based on the statistics of each person’s words, what the subjects might be and what the balance of the subjects of the subject is. each document.
